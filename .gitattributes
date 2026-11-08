@@ -1,0 +1,4 @@
+# Signed catalog envelopes are transported as UTF-8 text with stable LF endings.
+channels/**/*.json text eol=lf
+channels/**/*.txt text eol=lf
+channels/**/*.sha256 text eol=lf
