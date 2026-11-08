@@ -1,0 +1,3 @@
+Katalog farkı: +1 eklenen, -0 kaldırılan, ~0 güncellenen.
+Uygulama sayısı: 6 -> 7 • kritik değişiklik: 1.
++ Steam (steam)
