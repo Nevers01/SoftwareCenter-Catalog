@@ -1,3 +1,3 @@
 YAYINA HAZIR: onay makbuzu ve imzalı katalog aynı aday kataloğa bağlı.
-Onaylayan: github:Nevers01 • onay sonu: 2026-11-09T08:13:31.4634117+00:00 • kritik değişiklik: 1.
-Katalog: 7 uygulama • SHA-256: C34B8766B5AD3CB8F648996973A2B3390AA21E3D66F30CCE15968251BF37B8B5
+Onaylayan: Nevers01/public-1.0.0-preflight • onay sonu: 2026-11-19T16:24:48.2252457+00:00 • kritik değişiklik: 1.
+Katalog: 7 uygulama • SHA-256: 5A48502973F4F154697D263029F05CB4D1B0C4A07E5C64BB7AEBA4E4ADBC54F0
